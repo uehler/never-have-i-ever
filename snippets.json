@@ -1,0 +1,36 @@
+{
+    "german": {
+        "language": {
+            "headline": "Wähle deine Sprache",
+            "button": "Los gehts!"
+        },
+        "game": {
+            "neverHaveIEver": "Ich hab noch nie",
+            "next": "nächste Frage",
+            "change": "Sprache ändern",
+            "reset": "neu starten"
+        },
+        "finish": {
+            "thanks": "Danke!",
+            "content": "Du hast alle Fragen beantwortet. Wow!<br><br>Wenn dir das Spiel gefallen hat, kannst du uns auf <a href=\"https://github.com/uehler/never-have-i-ever\">github</a> unterstützen, zum Beispiel indem du neue Fragen hinzufügst.<br><br>Wir würden uns riesig darüber freuen!",
+            "restart": "neue Runde"
+        }
+    },
+    "english": {
+        "language": {
+            "headline": "Select your language",
+            "button": "let's go"
+        },
+        "game": {
+            "neverHaveIEver": "Never have I ever",
+            "next": "next question",
+            "change": "select language",
+            "reset": "reset"
+        },
+        "finish": {
+            "thanks": "Thank You!",
+            "content": "You answered all questions. Wow!<br><br>If you liked the game you can support us at <a href=\"https://github.com/uehler/never-have-i-ever\">github</a>, for example if you add new questions.<br><br>This would be awesome!",
+            "restart": "restart the game"
+        }
+    }
+}
